@@ -1,6 +1,6 @@
 # Trufflegotchi BETA
 this is the dumbest project ever
-![truffle him/herself (i forgot its gender)](https://imgur.com/a/DHThexK)
+![truffle him/herself (i forgot its gender)](https://imgur.com/a/truffle-DHThexK)
 ---
 ## What is it?
 trufflegotchi is a stupid web remake of tamagotchi except its leia's dog. (kill me now)
