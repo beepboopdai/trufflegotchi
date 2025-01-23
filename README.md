@@ -17,5 +17,3 @@ because i haven't finished it yet you idiot. why would you ask that? are you fuc
 - [ ] autosave (partially complete)
 
 okay bye leave me alone now i havent slept in a while
-
-> [Trello Board](https://trello.com/b/I2uFh5OC/trufflegotchi "@embed")
