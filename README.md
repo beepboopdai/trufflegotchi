@@ -1,6 +1,5 @@
 # Trufflegotchi BETA
-this is the dumbest project ever
-![truffle him/herself (i forgot its gender)](https://i.imgur.com/f9ArGIc.png)
+this is the dumbest project ever ![truffle him/herself (i forgot its gender)](https://i.imgur.com/f9ArGIc.png)
 ---
 ## What is it?
 trufflegotchi is a stupid web remake of tamagotchi except its leia's dog. (kill me now)
@@ -18,3 +17,5 @@ because i haven't finished it yet you idiot. why would you ask that? are you fuc
 - [ ] autosave (partially complete)
 
 okay bye leave me alone now i havent slept in a while
+
+> [Trello Board](https://trello.com/b/I2uFh5OC/trufflegotchi)
